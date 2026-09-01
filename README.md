@@ -86,10 +86,8 @@ Focus areas:
 
 ## 📫 Connect With Me
 
-- [LinkedIn](YOUR_LINKEDIN_URL)
+- [LinkedIn[](https://www.linkedin.com/in/muhammad-khadafi-2b5a5221b/)
 - [GitHub](https://github.com/muhammad-khadafi-sec)
 - [Email](mailto:muhkhadua@gmail.com)
 
 ---
-
-> Security Engineer with an offensive security mindset.
