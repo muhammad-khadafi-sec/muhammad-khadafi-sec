@@ -86,8 +86,8 @@ Focus areas:
 
 ## 📫 Connect With Me
 
-- [LinkedIn[](https://www.linkedin.com/in/muhammad-khadafi-2b5a5221b/)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-khadafi-2b5a5221b/)
 - [GitHub](https://github.com/muhammad-khadafi-sec)
-- [Email](mailto:muhkhadua@gmail.com)
+- **Email:** `muhkhadua@gmail.com`
 
 ---
