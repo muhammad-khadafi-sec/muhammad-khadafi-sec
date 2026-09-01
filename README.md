@@ -1,100 +1,95 @@
 # Muhammad Khadafi
 
-**Security Engineer**
+### Security Engineer
 
-Security Engineer specializing in security architecture, penetration testing, application security, and secure infrastructure. Currently designing security solutions for strategic infrastructure while performing application security assessments and developing offensive and defensive security tooling.
+Network & Cybersecurity Engineer focused on security architecture,
+network security, SOC engineering, and application security.
 
----
-
-## 🚀 What I Do
-
-- Design secure infrastructure and security architecture
-- Perform web application and API security assessments
-- Conduct penetration testing and security reviews
-- Develop security tools and automation
-- Design SOC and centralized monitoring architectures
-- Research modern attack techniques and defensive strategies
+I work across defensive and offensive security, combining security
+architecture and infrastructure engineering with hands-on web and
+API security research.
 
 ---
 
-## 🛡️ Featured Projects
+## 🛠️ What I Do
 
-### GarudaVanguard *(In Progress)*
-
-A Linux hardening assessment tool designed to validate operating system security configurations against security best practices.
-
-**Tech Stack**
-
-Python • Linux • Bash
-
----
-
-### RedMind *(In Progress)*
-
-An offensive security toolkit focused on reconnaissance, web application assessment, and penetration testing workflow automation.
-
-**Tech Stack**
-
-Python • Networking • HTTP • DNS
+- Security & Network Architecture
+- Zero Trust & Network Segmentation
+- SOC & Security Monitoring
+- Web & API Security
+- Penetration Testing & Security Research
+- Security Tool Development
 
 ---
 
-### Security Portfolio *(Coming Soon)*
+## 🚀 Featured Projects
 
-A collection of selected penetration testing engagements, application security assessments, and technical case studies based on real-world projects.
+### 🛡️ Security Architecture Portfolio
+
+Security architecture case studies covering:
+
+- Multi-Site SOC Architecture
+- Zero Trust Architecture
+- Security Monitoring & Response
+- Penetration Testing & Security Assessment documentation
+
+[View Portfolio](https://github.com/muhammad-khadafi-sec/security-portfolio)
+
+### 🐧 GarudaVanguard
+
+Linux Security Hardening Assessment Framework implementing selected
+CIS Benchmark checks.
+
+[View on GitHub](https://github.com/muhammad-khadafi-sec/GarudaVanguard)
+
+### 🔎 RedMind
+
+Offensive security toolkit for reconnaissance and attack-surface analysis.
+
+[View on GitHub](https://github.com/muhammad-khadafi-sec/RedMind)
 
 ---
 
-## 💼 Areas of Expertise
+## 🔬 Security Research
+
+Focus areas:
+
+- Web & API Security
+- Authentication & Authorization
+- Access Control / IDOR
+- Business Logic
+- GraphQL Security
+- Payment & Transaction Workflows
+
+---
+
+## 🎯 Current Focus
 
 - Security Architecture
-- Application Security
-- Penetration Testing
-- API Security
 - Network Security
-- Zero Trust Architecture
 - SOC Engineering
-- Linux Security
+- Detection Engineering
+- Web & API Security
+- Security Automation
 
 ---
 
 ## 🧰 Technical Stack
 
-### Languages
+**Security:** Security Architecture · Zero Trust · SOC · Web/API Security
 
-- Python
-- Bash
+**Tools:** Burp Suite · Wazuh · Suricata · Zeek · Wireshark · Nmap · OPNsense
 
-### Security
-
-- Burp Suite
-- Nmap
-- Gobuster
-- Wazuh
-- Suricata
-- Wireshark
-
-### Infrastructure
-
-- Linux
-- Docker
-- Git
-- VPN
-- Networking
-
----
-
-## 📚 Currently Learning
-
-- Cloud Security
-- Detection Engineering
-- Threat Hunting
-- Active Directory Security
-- Malware Analysis
+**Development:** Python · Linux · Git
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: *(https://www.linkedin.com/in/muhammad-khadafi-2b5a5221b/)*
-- Email: *muhkhadua@gmail.com*
+- [LinkedIn](YOUR_LINKEDIN_URL)
+- [GitHub](https://github.com/muhammad-khadafi-sec)
+- [Email](mailto:muhkhadua@gmail.com)
+
+---
+
+> Security Engineer with an offensive security mindset.
