@@ -11,7 +11,7 @@ API security research.
 
 ---
 
-## 🛠️ What I Do
+## What I Do
 
 - Security & Network Architecture
 - Zero Trust & Network Segmentation
@@ -22,9 +22,9 @@ API security research.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛡️ Security Architecture Portfolio
+### Security Architecture Portfolio
 
 Security architecture case studies covering:
 
@@ -35,14 +35,14 @@ Security architecture case studies covering:
 
 [View Portfolio](https://github.com/muhammad-khadafi-sec/security-portfolio)
 
-### 🐧 GarudaVanguard
+### GarudaVanguard
 
 Linux Security Hardening Assessment Framework implementing selected
 CIS Benchmark checks.
 
 [View on GitHub](https://github.com/muhammad-khadafi-sec/GarudaVanguard)
 
-### 🔎 RedMind
+### RedMind
 
 Offensive security toolkit for reconnaissance and attack-surface analysis.
 
@@ -50,7 +50,7 @@ Offensive security toolkit for reconnaissance and attack-surface analysis.
 
 ---
 
-## 🔬 Security Research
+## Security Research
 
 Focus areas:
 
@@ -63,7 +63,7 @@ Focus areas:
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Security Architecture
 - Network Security
@@ -74,7 +74,7 @@ Focus areas:
 
 ---
 
-## 🧰 Technical Stack
+## Technical Stack
 
 **Security:** Security Architecture · Zero Trust · SOC · Web/API Security
 
@@ -84,7 +84,7 @@ Focus areas:
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/muhammad-khadafi-2b5a5221b/)
 - [GitHub](https://github.com/muhammad-khadafi-sec)
