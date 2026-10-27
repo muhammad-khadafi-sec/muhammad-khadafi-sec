@@ -42,12 +42,6 @@ CIS Benchmark checks.
 
 [View on GitHub](https://github.com/muhammad-khadafi-sec/GarudaVanguard)
 
-### RedMind
-
-Offensive security toolkit for reconnaissance and attack-surface analysis.
-
-[View on GitHub](https://github.com/muhammad-khadafi-sec/RedMind)
-
 ---
 
 ## Security Research
